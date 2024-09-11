@@ -1,5 +1,6 @@
 # Coffee Shop Website
 
+## Screenshots
 ![image](https://github.com/user-attachments/assets/32bf3773-f900-4f25-8f6b-2a49d350c3ce)
 ![image](https://github.com/user-attachments/assets/9ae7cd00-fd7a-4eab-9e43-b81dc0a5ecab)
 ![image](https://github.com/user-attachments/assets/15ff3352-2037-4073-acac-f13388cdb068)
