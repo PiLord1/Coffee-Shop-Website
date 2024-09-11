@@ -1,5 +1,7 @@
 # Coffee Shop Website
 
+**View project here:** https://pilord1.github.io/Coffee-Shop/
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/32bf3773-f900-4f25-8f6b-2a49d350c3ce)
 ![image](https://github.com/user-attachments/assets/9ae7cd00-fd7a-4eab-9e43-b81dc0a5ecab)
