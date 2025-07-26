@@ -1,6 +1,6 @@
 # Coffee Shop Website
 
-**View project here:** https://pilord1.github.io/Coffee-Shop/
+**View project here:** https://jeanberin.github.io/Coffee-Shop/
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/32bf3773-f900-4f25-8f6b-2a49d350c3ce)
